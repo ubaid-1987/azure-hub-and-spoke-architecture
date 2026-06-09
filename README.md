@@ -26,9 +26,9 @@ By default, Azure VNet Peering is **non-transitive**. (If Spoke 1 is peered to H
 ### Live Verification Data:
 Successful ICMP echo and DNS queries validating that Spoke 1 can resolve and route data across the Hub to Spoke 2 instances securely:
 
-![Transitive Routing Ping Verification]('Transitive ping.png')
-![DNS Resolution and Endpoint Tests]("peering and dns and ping.png")
-![Spoke Regional Deployment Layout]("spoke 2 west us.png")
+![Transitive Routing Ping Verification](Transitive%20ping.png)
+![DNS Resolution and Endpoint Tests](peering%20and%20dns%20and%20ping.png)
+![Spoke Regional Deployment Layout](spoke%202%20west%20us.png)
 
 ---
 
